@@ -425,6 +425,8 @@ chmod +x /home/${user}/.config/autostart/plank.desktop
     sudo chsh -s $(which zsh) $(whoami)
 }
 
+xfconf-query -c xfce4-desktop -p /backdrop/screen0/monitor0/workspace0/last-image -s /root/Red-Shadow-linux/shadow-linux.jpg
+
 #full_update
 select_desktop_type
 firefox_install
