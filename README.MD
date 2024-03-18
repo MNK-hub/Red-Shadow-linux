@@ -15,7 +15,7 @@ To install Red-Shadow-Linux, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd Red-Shadow-Linux
+   cd Red-Shadow-linux
    ```
 
 3. Run the installation script:
